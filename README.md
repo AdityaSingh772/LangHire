@@ -355,11 +355,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Support
 
 - **Documentation**: Check this README and code comments
-- **Issues**: [GitHub Issues](https://github.com/your-username/langhire/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/langhire/discussions)
+- **Issues**: [GitHub Issues](https://github.com/AdityaSingh772/LangHire/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/AdityaSingh772/LangHire/discussions)
 
 ---
 
 **Made with ❤️ by Aditya**
+mailto: adityasingh.nitr@gmail.com
+---
 
 *LangHire - Making hiring decisions smarter, one resume at a time.*
